@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naresh Shahi</h1>
 
-<h3 align="center">👨‍💻 A passionate IT student eager to learn and grow in software development.</h3>
+<h3 align="center">👨‍💻 A passionate IT student eager to learn and grow in software development.Currently pursuing a Bachelor's in Computer Application.</h3>
 
 <p align="center">
   <img alt="coding" width="70%" height="450" src="https://miro.medium.com/v2/resize:fit:875/1*VMmvImch6VU5pc2VktY1uw.gif" />
