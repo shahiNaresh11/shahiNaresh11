@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naresh Shahi</h1>
 
-<h3 align="center">👨‍💻 A passionate IT student, eager to learn and grow in software development. Currently pursuing a Bachelor's in Computer Application.</h3>
+<h3 align="center">👨‍💻 A passionate IT student eager to learn and grow in software development.</h3>
 
 <p align="center">
-  <img alt="coding" width="98%" src="https://miro.medium.com/v2/resize:fit:875/1*VMmvImch6VU5pc2VktY1uw.gif" />
+  <img alt="coding" width="80%" height="550" src="https://miro.medium.com/v2/resize:fit:875/1*VMmvImch6VU5pc2VktY1uw.gif" />
 </p>
 
 ---
@@ -14,18 +14,20 @@
 ---
 
 <h3 align="center">📫 Connect with me</h3>
+
 <p align="center">
-  <a href="https://linkedin.com/in/naresh-shahi" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naresh-shahi" height="30" width="40" />
+  <a href="https://linkedin.com/in/naresh-shahi-176ba7320/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/naresh.s_thakuri" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naresh.s_thakuri" height="30" width="40" />
+  <a href="https://instagram.com/naresh.s_thakuri" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
 ---
 
 <h3 align="center">🛠️ Languages and Tools</h3>
+
 <p align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
@@ -44,6 +46,7 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahinaresh11&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahinaresh11&layout=compact&theme=default" alt="Top Languages" />
 </p>
