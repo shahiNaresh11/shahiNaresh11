@@ -3,7 +3,7 @@
 <h3 align="center">👨‍💻 A passionate IT student eager to learn and grow in software development.</h3>
 
 <p align="center">
-  <img alt="coding" width="80%" height="550" src="https://miro.medium.com/v2/resize:fit:875/1*VMmvImch6VU5pc2VktY1uw.gif" />
+  <img alt="coding" width="70%" height="450" src="https://miro.medium.com/v2/resize:fit:875/1*VMmvImch6VU5pc2VktY1uw.gif" />
 </p>
 
 ---
