@@ -8,7 +8,7 @@
 
 ---
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next-js**
 - 📫 Contact me: **nareshshahi0011@gmail.com**
 
 ---
